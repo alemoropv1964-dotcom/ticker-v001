@@ -1,2 +1,2 @@
 # ticker-v001
-Esperimento porttfolio v 001
+Esperimento porttolio v 001
